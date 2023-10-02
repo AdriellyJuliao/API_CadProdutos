@@ -1,0 +1,64 @@
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\bin\Debug\net7.0\appsettings.json
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\bin\Debug\net7.0\CadastroDeProdutos.exe
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\bin\Debug\net7.0\CadastroDeProdutos.deps.json
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\bin\Debug\net7.0\CadastroDeProdutos.runtimeconfig.json
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\bin\Debug\net7.0\CadastroDeProdutos.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\bin\Debug\net7.0\CadastroDeProdutos.pdb
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\net7.0\CadastroDeProdutos.csproj.AssemblyReference.cache
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\net7.0\CadastroDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\net7.0\CadastroDeProdutos.AssemblyInfoInputs.cache
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\net7.0\CadastroDeProdutos.AssemblyInfo.cs
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\net7.0\CadastroDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\net7.0\CadastroDeProdutos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\net7.0\staticwebassets\msbuild.CadastroDeProdutos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\net7.0\staticwebassets\msbuild.build.CadastroDeProdutos.props
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CadastroDeProdutos.props
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CadastroDeProdutos.props
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\net7.0\scopedcss\bundle\CadastroDeProdutos.styles.css
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\net7.0\CadastroDeProdutos.csproj.CopyComplete
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\net7.0\CadastroDeProdutos.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\net7.0\refint\CadastroDeProdutos.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\net7.0\CadastroDeProdutos.pdb
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\net7.0\CadastroDeProdutos.genruntimeconfig.cache
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tec ADS\CadastroDeProdutos\CadastroDeProdutos\obj\Debug\net7.0\ref\CadastroDeProdutos.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\bin\Debug\net7.0\appsettings.json
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\bin\Debug\net7.0\CadastroDeProdutos.exe
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\bin\Debug\net7.0\CadastroDeProdutos.deps.json
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\bin\Debug\net7.0\CadastroDeProdutos.runtimeconfig.json
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\bin\Debug\net7.0\CadastroDeProdutos.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\bin\Debug\net7.0\CadastroDeProdutos.pdb
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\obj\Debug\net7.0\CadastroDeProdutos.csproj.AssemblyReference.cache
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\obj\Debug\net7.0\CadastroDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\obj\Debug\net7.0\CadastroDeProdutos.AssemblyInfoInputs.cache
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\obj\Debug\net7.0\CadastroDeProdutos.AssemblyInfo.cs
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\obj\Debug\net7.0\CadastroDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\obj\Debug\net7.0\CadastroDeProdutos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\obj\Debug\net7.0\staticwebassets\msbuild.CadastroDeProdutos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\obj\Debug\net7.0\staticwebassets\msbuild.build.CadastroDeProdutos.props
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CadastroDeProdutos.props
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CadastroDeProdutos.props
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\obj\Debug\net7.0\scopedcss\bundle\CadastroDeProdutos.styles.css
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\obj\Debug\net7.0\CadastroDeProdutos.csproj.CopyComplete
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\obj\Debug\net7.0\CadastroDeProdutos.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\obj\Debug\net7.0\refint\CadastroDeProdutos.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\obj\Debug\net7.0\CadastroDeProdutos.pdb
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\obj\Debug\net7.0\CadastroDeProdutos.genruntimeconfig.cache
+C:\Users\adrie\OneDrive\Área de Trabalho\Faculdade\Faculdade 2023.2\Tecnologias para ADS\Exercício2\CadastroDeProdutos\obj\Debug\net7.0\ref\CadastroDeProdutos.dll
